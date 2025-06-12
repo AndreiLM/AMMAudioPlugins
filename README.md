@@ -8,3 +8,7 @@ Just download it, put in in your plugins folder, and you are good to go. For cho
 # Reaper LUA Scripts
 
 Reaper-based scripts that can be used in your Reaper DAW as custom actions. Instructions on how to use them can be found in the associated Readme file
+
+1. Instant Chords - allows you to instantly insert a number of chords on the selected track
+2. Instant Drums - allows you to insert drum patterns along with some section labels
+3. Load Templates - a script that allows you to populate your Reaper project with a series of saved track templates
